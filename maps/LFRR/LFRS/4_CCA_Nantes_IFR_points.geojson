@@ -1,0 +1,1705 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.423611,
+                        47.313611
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ABLAN",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -3.750806,
+                        47.961528
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ROSPO",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -3.566667,
+                        47.894722
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "OXIDA",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.962222,
+                        47.965
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "LENSU",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -3.152056,
+                        47.82225
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "KERAK",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -3.156667,
+                        47.743889
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "DEGEX",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -3.641389,
+                        47.599722
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "IDRIK",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -4.008333,
+                        47.732778
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "LEGMO",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.881111,
+                        47.583333
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "BAGAD",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.500833,
+                        47.685
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "KORER",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.578611,
+                        47.484444
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "LUTAS",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.325833,
+                        47.400833
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ERBIN",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.185833,
+                        47.507222
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "RIMON",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -3.1175,
+                        47.405833
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ADSET",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -3.0,
+                        47.139167
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "AKEMO",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.282222,
+                        48.22
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "SAMPO",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.435833,
+                        48.027222
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "RINSO",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.234722,
+                        47.999167
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VAKSI",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.94,
+                        47.956389
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "TABIL",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.25,
+                        48.35
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "PEPON",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.25,
+                        48.259722
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "DIDAK",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.25,
+                        48.066944
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "OBATO",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.25,
+                        47.853056
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "SABLE",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.458611,
+                        47.884722
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "NAMAR",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.419444,
+                        47.796944
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ENOKI",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.411944,
+                        47.71
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "EPAPU",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.440833,
+                        47.645833
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "GIGOT",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.96,
+                        47.641944
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "GODAN",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.673889,
+                        47.618056
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "BALNI",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.5175,
+                        47.599722
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "KURIS",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.905833,
+                        47.731389
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARDOD",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.201667,
+                        47.9125
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "TUNAX",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.086111,
+                        47.596389
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "LUTIL",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.531389,
+                        47.536389
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ANIGU",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.953889,
+                        47.486944
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "TACRO",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.110556,
+                        47.562778
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VALAX",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.264722,
+                        47.440556
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "NEDAN",
+                "pointStyle": {
+                    "type": "triangle_filled",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.662778,
+                        47.535556
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "RODSA",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.806389,
+                        47.430278
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "NITEM",
+                "pointStyle": {
+                    "type": "triangle_filled",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -3.094611,
+                        46.568806
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "AZFIC",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.286028,
+                        46.960861
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "KEMUR",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.363056,
+                        46.86
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ERIGA",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.400528,
+                        46.723028
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "EPIXO",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.091944,
+                        46.896111
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "NORMI",
+                "pointStyle": {
+                    "type": "triangle_filled",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.77475,
+                        46.936778
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "DOGOV",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.383056,
+                        47.275556
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "OGLOT",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.628333,
+                        47.277
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "WIQMO",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.753028,
+                        47.227806
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ELNER",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.632278,
+                        47.124889
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "LULID",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.490889,
+                        47.06925
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "SUBAK",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.306944,
+                        47.1385
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VELUD",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.365,
+                        46.971944
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "USODA",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.413333,
+                        47.939444
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "LUMAN",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.846667,
+                        47.993056
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "KOVAK",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.190278,
+                        46.838333
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "BOBRI",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.433611,
+                        46.710833
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "LAROK",
+                "pointStyle": {
+                    "type": "triangle_filled",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.390833,
+                        46.598889
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "TIRAV",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.350833,
+                        46.5
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "LUSON",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.878639,
+                        46.266306
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "FUJTI",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.476111,
+                        46.173972
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "YURZI",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.25,
+                        46.051944
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "DIDIG",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.209583,
+                        46.127636
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "PIQFU",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.150278,
+                        45.969722
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "OLERO",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.941944,
+                        46.213333
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "MANAK",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.662778,
+                        46.429167
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "TUPAR",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.458333,
+                        46.583333
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ABSIE",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.25,
+                        46.58
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "BETOB",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.031111,
+                        46.181667
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "DIDRU",
+                "pointStyle": {
+                    "type": "triangle_hollow",
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "size": "medium",
+                    "opacity": 1
+                }
+            }
+        }
+    ]
+}
