@@ -113,7 +113,9 @@
       "0_CCA_Nantes",
       "1_CCA_Nantes_SUP_AIP_LeMans",
       "2_CCA_Nantes_VFR",
-      "3_CCA_Nantes_MVA"
+      "3_CCA_Nantes_MVA",
+	  "4_CCA_Nantes_IFR_points",
+	  "5_CCA_Nantes_VFR_points"
     ]
   },
   "LFMM": {
