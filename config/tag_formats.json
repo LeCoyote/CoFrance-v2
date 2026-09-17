@@ -3540,7 +3540,10 @@
               "LFRI",
               "LFRM",
               "LFRV",
-              "LFRZ"
+              "LFRZ",
+			  "LFBH",
+			  "LFRN",
+			  "LFRH"
             ]
           },
           "priority": 2,
